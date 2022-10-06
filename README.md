@@ -2,7 +2,7 @@
 - 👀 I’m interested in obtaining AWS in DevOps and to becoming a Cloud Security. 
 - 🌱 I’m currently learning more about AWS DevOps.
 - 💞️ I’m looking for to connect with people in Tech. 
-- Ask me about any Tech-Stuff. 
+- 💬 Ask me about any Tech-Stuff. 
 - 📫 How to reach me in LinkEdIn https://www.linkedin.com/in/jose-gabriel-4149a3113/ 
 
 <!---
